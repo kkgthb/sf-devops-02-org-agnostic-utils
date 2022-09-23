@@ -1,0 +1,7 @@
+project:
+  name: devops-demo-02-org-agnostic-utils
+  package:
+    name: DevOps Demo 02 - Org-Agnostic Utils
+  git:
+    default_branch: 'main'
+  source_format: sfdx
