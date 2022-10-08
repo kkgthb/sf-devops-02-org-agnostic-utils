@@ -1,3 +1,10 @@
+/* **************************************************************************************
+* Public Class: Util_TEST
+* Unit test for the "Util" class.
+* 
+* Created by Katie Kodes, September 2019
+*****************************************************************************************/
+
 @isTest
 public class Util_TEST {
     
